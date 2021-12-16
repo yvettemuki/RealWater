@@ -1,0 +1,37 @@
+﻿  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  ParticleManager.cpp
+D:\code\github_repo\RealWater\RealWater\ParticleManager.hpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\code\github_repo\RealWater\RealWater\ParticleManager.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\code\github_repo\RealWater\RealWater\ParticleManager.cpp(82,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\code\github_repo\RealWater\RealWater\ParticleManager.cpp(90,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\code\github_repo\RealWater\RealWater\ParticleManager.cpp(111,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  RealWater.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+D:\code\github_repo\RealWater\RealWater\RealWater.cpp(19,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\code\github_repo\RealWater\RealWater\ParticleManager.hpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\code\github_repo\RealWater\RealWater\RealWater.cpp(58,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  utils.cpp
+  Generating code
+  1640 of 1653 functions (99.2%) were compiled, the rest were copied from previous compilation.
+    23 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RealWater.vcxproj -> D:\code\github_repo\RealWater\Release\RealWater.exe
